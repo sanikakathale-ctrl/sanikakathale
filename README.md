@@ -1,3 +1,4 @@
 # sanikakathale
-This is my first repository
-author - Sanika kathale
+This is my first repository.
+<br>
+author - Sanika Kathale
